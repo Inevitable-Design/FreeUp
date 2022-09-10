@@ -1,4 +1,4 @@
-# freeup
+# FreeUp
 
 The Sculptor to your mind.
 
